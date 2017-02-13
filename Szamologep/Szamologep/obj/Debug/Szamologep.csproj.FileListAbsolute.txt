@@ -1,2 +1,14 @@
 c:\users\hackerpro\documents\visual studio 2012\Projects\Szamologep\Szamologep\bin\Debug\Szamologep.exe.config
+C:\Users\HackerPro\Source\SzamologepHF1\Szamologep\Szamologep\bin\Debug\Szamologep.exe.config
+C:\Users\HackerPro\Source\SzamologepHF1\Szamologep\Szamologep\bin\Debug\Szamologep.exe
+C:\Users\HackerPro\Source\SzamologepHF1\Szamologep\Szamologep\bin\Debug\Szamologep.pdb
+C:\Users\HackerPro\Source\SzamologepHF1\Szamologep\Szamologep\obj\Debug\Szamologep.csprojResolveAssemblyReference.cache
+C:\Users\HackerPro\Source\SzamologepHF1\Szamologep\Szamologep\obj\Debug\Szamologep.Properties.Resources.resources
+C:\Users\HackerPro\Source\SzamologepHF1\Szamologep\Szamologep\obj\Debug\Szamologep.csproj.GenerateResource.Cache
+C:\Users\HackerPro\Source\SzamologepHF1\Szamologep\Szamologep\obj\Debug\Szamologep.exe
+C:\Users\HackerPro\Source\SzamologepHF1\Szamologep\Szamologep\obj\Debug\Szamologep.pdb
+C:\Users\HackerPro\Source\SzamologepHF1\Szamologep\Szamologep\obj\Debug\Szamologep.Form1.resources
+C:\Users\HackerPro\Desktop\SzamologepHF1\Szamologep\Szamologep\bin\Debug\Szamologep.exe.config
+C:\Users\HackerPro\Desktop\SzamologepHF1\Szamologep\Szamologep\obj\Debug\Szamologep.exe
+C:\Users\HackerPro\Desktop\SzamologepHF1\Szamologep\Szamologep\obj\Debug\Szamologep.pdb
 C:\Users\MATTHEW SMITH\Source\Repos\Új mappa (2)\SzamologepHF1\Szamologep\Szamologep\bin\Debug\Szamologep.exe.config
