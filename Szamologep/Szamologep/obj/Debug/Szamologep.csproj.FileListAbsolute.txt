@@ -1,1 +1,2 @@
 c:\users\hackerpro\documents\visual studio 2012\Projects\Szamologep\Szamologep\bin\Debug\Szamologep.exe.config
+C:\Users\MATTHEW SMITH\Source\Repos\Új mappa (2)\SzamologepHF1\Szamologep\Szamologep\bin\Debug\Szamologep.exe.config
