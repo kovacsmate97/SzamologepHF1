@@ -11,3 +11,4 @@ C:\Users\HackerPro\Source\SzamologepHF1\Szamologep\Szamologep\obj\Debug\Szamolog
 C:\Users\HackerPro\Desktop\SzamologepHF1\Szamologep\Szamologep\bin\Debug\Szamologep.exe.config
 C:\Users\HackerPro\Desktop\SzamologepHF1\Szamologep\Szamologep\obj\Debug\Szamologep.exe
 C:\Users\HackerPro\Desktop\SzamologepHF1\Szamologep\Szamologep\obj\Debug\Szamologep.pdb
+C:\Users\MATTHEW SMITH\Source\Repos\Új mappa (2)\SzamologepHF1\Szamologep\Szamologep\bin\Debug\Szamologep.exe.config
