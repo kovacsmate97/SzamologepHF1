@@ -1,0 +1,1 @@
+ha nullával osztasz, akkor kiírja, hogy nullával nem lehet osztani
